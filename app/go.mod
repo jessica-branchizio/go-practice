@@ -1,3 +1,3 @@
-module github.com/jessica-branchizio/go-practice/app
+module github.com/go-practice/app
 
 go 1.15
